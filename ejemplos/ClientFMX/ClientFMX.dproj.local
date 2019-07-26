@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/20 10:17:58.000.560,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/20 10:19:29.000.965,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/04/20 10:19:45.000.491,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\DelphiAcademy\44-RADServer5\ClientFMX\uMainForm.fmx</Transaction>
+    <Transaction>2018/04/20 10:19:45.000.491,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\DelphiAcademy\44-RADServer5\ClientFMX\uMainForm.pas</Transaction>
+    <Transaction>2018/04/20 10:19:50.000.246,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\DelphiAcademy\44-RADServer5\ClientFMX\ClientFMX.dproj</Transaction>
+    <Transaction>2018/04/20 11:07:46.000.625,=C:\DelphiAcademy\44-RADServer5\Common\uJSONHelper.pas</Transaction>
+    <Transaction>2018/04/21 19:38:41.000.140,=C:\DelphiAcademy\44-RADServer5\Common\qdac_fmx_vkhelper.pas</Transaction>
+    <Transaction>2019/07/24 09:01:37.000.430,=C:\EVENTS\NuevasArquitecturasLatAm\Common\qdac_fmx_vkhelper.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PmacOS iOSSimulator="iPhone5"/>
+		<NoProfile Android="0042349368"/>
+		<Pmacos64 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
