@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/23 01:27:58.000.528,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/04/23 01:28:00.000.095,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.441,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\serverfunctions.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.472,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\json2-min.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.488,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.519,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\callbackframework-min.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.457,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\base64-min.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.393,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.378,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\base64.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.410,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\json2.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.425,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\js\callbackframework.js</Transaction>
+    <Transaction>2019/04/23 01:28:02.000.252,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\datasnap101\ServerConst1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
